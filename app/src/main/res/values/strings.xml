@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiMarcianito</string>
+    <string name="saludo_name">Bienvenido</string>
+    <string name="return_name">Entrar</string>
+</resources>

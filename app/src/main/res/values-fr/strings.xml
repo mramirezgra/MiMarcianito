@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonMartien</string>
+    <string name="saludo_name">Bienvenue</string>
+    <string name="return_name">Entrer</string>
+</resources>
